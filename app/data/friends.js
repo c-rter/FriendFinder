@@ -1,6 +1,6 @@
 var friendArray = [
     {
-        "name":"Carter",
+        "name":"Mr. Positive",
         "image":"https://c-rter.github.io/Responsive-Portfolio/Psychic.jpg",
         "opinions":[
             4,
@@ -19,7 +19,7 @@ var friendArray = [
   
 var user2 = 
       {
-        "name":"Cartero",
+        "name":"Mr. Negative",
         "image":"https://c-rter.github.io/Responsive-Portfolio/Psychic.jpg",
         "opinions":[
             1,
